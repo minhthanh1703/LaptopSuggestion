@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question>
+        <name>question1</name>
+        <title>1) What is your need for use?</title>
+        <answers>
+            <answer value="study">A. For study, office work</answer>
+            <answer value="game">B. For game players</answer>
+            <answer value="business ">C. For business people</answer>
+            <answer value="professional">D. For professional users</answer>
+        </answers>
+    </question>
+    <question>
+        <name>question2</name>
+        <title>2) What is your favorite brand?</title>
+        <answers>
+            <answer value="ACER">A. ACER</answer>
+            <answer value="APPLE">B. APPLE</answer>
+            <answer value="ASUS">C. ASUS</answer>
+            <answer value="DELL">D. DELL</answer>
+            <answer value="MSI">E. MSI</answer>
+            <answer value="HP">F. HP</answer>
+            <answer value="LG">G. LG</answer>
+            <answer value="LENOVO">H. LENOVO</answer>
+        </answers>
+    </question>
+    <question>
+        <name>question3</name>
+        <title>3) What screen size would you like?</title>
+        <answers>
+            <answer value="13.3">A. 13.3inch</answer>
+            <answer value="14">B. 14.0inch</answer>
+            <answer value="15.6">C. 15.6inch</answer>
+            <answer value="16.0">D. 16.0inch</answer>
+            <answer value="17.3">E. 17.3inch</answer>
+        </answers>
+    </question>
+    <question>
+        <name>question4</name>
+        <title>4) How much ram do you want?</title>
+        <answers>
+            <answer value="4G">A. Basic( 4gb)</answer>
+            <answer value="8G">B. Medium( 8gb)</answer>
+            <answer value="16G">C. High( 16gb)</answer>
+        </answers>
+    </question>
+    <question>
+        <name>question5</name>
+        <title>5) What cpu would you like?</title>
+        <answers>
+            <answer value="i3">A. intel core i3</answer>
+            <answer value="i5">B. intel core i5</answer>
+            <answer value="i7">C. intel core i7</answer>
+            <answer value="Ryzen">D. AMD Ryzen</answer>
+        </answers>
+    </question>
+    <question>
+        <name>question6</name>
+        <title>6) How much memory do you want?</title>
+        <answers>
+            <answer value="basic">A. Basic</answer>
+            <answer value="medium">B. Medium</answer>
+            <answer value="high">C. High</answer>
+        </answers>
+    </question>
+    <question>
+        <name>question7</name>
+        <title>7) What chipset vga would you like?</title>
+        <answers>
+            <answer value="Intel">A. Intel onboard</answer>
+            <answer value="Nvidia">B. Nvidia</answer>
+            <answer value="AMD">C. AMD</answer>
+        </answers>
+    </question>
+</questions>
